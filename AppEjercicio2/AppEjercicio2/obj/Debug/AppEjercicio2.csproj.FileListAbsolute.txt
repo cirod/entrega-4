@@ -1,0 +1,9 @@
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\bin\Debug\AppEjercicio2.exe.config
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\obj\Debug\AppEjercicio2.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\obj\Debug\AppEjercicio2.Form1.resources
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\obj\Debug\AppEjercicio2.Properties.Resources.resources
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\obj\Debug\AppEjercicio2.csproj.GenerateResource.Cache
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\bin\Debug\AppEjercicio2.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\bin\Debug\AppEjercicio2.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\obj\Debug\AppEjercicio2.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicio2\AppEjercicio2\obj\Debug\AppEjercicio2.pdb

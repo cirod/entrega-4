@@ -1,0 +1,5 @@
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTryCatch2\AppTryCatch2\bin\Debug\AppTryCatch2.exe.config
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTryCatch2\AppTryCatch2\bin\Debug\AppTryCatch2.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTryCatch2\AppTryCatch2\bin\Debug\AppTryCatch2.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTryCatch2\AppTryCatch2\obj\Debug\AppTryCatch2.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTryCatch2\AppTryCatch2\obj\Debug\AppTryCatch2.pdb
